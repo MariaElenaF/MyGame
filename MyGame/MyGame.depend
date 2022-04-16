@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650101973 source:c:\users\asdf\desktop\mygame\mygame\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
